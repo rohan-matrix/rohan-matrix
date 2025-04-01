@@ -15,9 +15,6 @@ I’m Rohan Sharma, a dedicated web developer specializing in Python and its ass
 - **Front-end**: React, Bootstrap, jQuery
 - **APIs**: RESTful APIs, GraphQL
 
-## 📫 Get in Touch
-
-- **Email**: [rohan@matrixmarketers.com](mailto:rohan@matrixmarketers.com)
 
 Feel free to explore my repositories, open issues, or contribute to any of my projects. I’m always open to collaborating and learning new things!
 
